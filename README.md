@@ -22,7 +22,7 @@ The repo contains the Jupyter notebooks used in the ETL process for this project
 
 ### Contributtions
 
-Shivam handled the 2018 Citibike data for this project; Marcus did likewise for the 2014 Citibike data.  Both contributed to final code to push the cleaned data to the MySQL database.
+Shivam handled the 2018 Citibike data for this project; Marcus did likewise for the 2014 Citibike data.  Both contributed to the final code to push the cleaned data to the MySQL database.
 
 
 
